@@ -6,6 +6,9 @@ public class gitpra {
         System.out.println("hello world 2");
         System.out.println("hello world 3");
         System.out.println("hellow");
+         System.out.println("new to main");
+        System.out.println("nanea");
+        
 
 
 
